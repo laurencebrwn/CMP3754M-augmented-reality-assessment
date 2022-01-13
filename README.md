@@ -1,3 +1,3 @@
-# CMP3754M - Virtual Reality Assessment
+# CMP3754M - Augmented Reality Assessment
 
-A VR game created for the CMP3754M-2122 Virtual and Augmented Reality - Assessment 1.
+A AR app created for the CMP3754M-2122 Virtual and Augmented Reality - Assessment 1.
