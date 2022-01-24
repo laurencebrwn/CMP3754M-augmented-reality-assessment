@@ -5,6 +5,16 @@ TagManager:
   serializedVersion: 2
   tags:
   - Spawnable
+  - catInteractable
+  - chickenInteractable
+  - dogInteractable
+  - lionInteractable
+  - penguinInteractable
+  - cat
+  - chicken
+  - dog
+  - lion
+  - penguin
   layers:
   - Default
   - TransparentFX
